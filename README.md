@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maXoXx0
-- 👀 I’m interested in sports ang computer games
+- 👀 I’m interested in sports and computer games
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
