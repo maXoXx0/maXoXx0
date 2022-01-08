@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maXoXx0
+- 👋 Hi, I’m @maXo
 - 👀 I’m interested in sports and computer games
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
